@@ -7,7 +7,7 @@ from google.generativeai import configure, GenerativeModel
 from google.api_core import exceptions as google_exceptions
 
 # Configure the Gemini API client
-GEMINI_API_KEY = "AIzaSyAFUiX-HnUyjFm4-YfaNyboORZeLx6HlSc" # Replace with your actual API key
+GEMINI_API_KEY = "c" # Replace with your actual API key
 configure(api_key=GEMINI_API_KEY)
 
 MODEL_NAME = "gemini-1.5-flash" # Using a known and available Gemini model
