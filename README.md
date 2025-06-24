@@ -1,7 +1,7 @@
 
 # CulinAI: Your AI Kitchen Rebel
 
-CulinAI is a smart, AI-powered kitchen assistant designed to feel like a native mobile application. It helps users discover recipes, manage their pantry, and get real-time assistance while cooking, all through a modern, voice-first interface. It's built with Next.js, Supabase, and Google's Gemini models via Genkit.
+CulinAI is a smart, AI-powered kitchen assistant designed to feel like a native mobile application. It helps users discover recipes, manage their pantry, and get real-time assistance while cooking, all through a modern, voice-first interface. It's built with Next.js, Supabase, and OpenRouter Models, making it a powerful tool for both home cooks and culinary enthusiasts.
 
 ![CulinAI Screenshot](https://placehold.co/800x450.png)
 *<p align="center" data-ai-hint="app screenshot">A screenshot of the CulinAI application interface.</p>*

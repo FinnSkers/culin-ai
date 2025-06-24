@@ -458,7 +458,6 @@
   - 2 tbsp olive oil
   - 1/4 cup chopped cilantro, for garnish
   - Lime wedges, for serving
-  - Cooked rice, for serving
 - Instructions:
   1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
   2. Add garlic and ginger and cook for 1 minute more.
@@ -469,143 +468,6 @@
   7. Spread chickpeas in a single layer on a baking sheet and roast for 20-25 minutes, or until crispy.
   8. Once the curry is cooked, stir in the crispy chickpeas.
   9. Garnish with chopped cilantro and serve hot with cooked rice and lime wedges.
-
-### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
-- Description: An explosion of sweet, spicy, and savory flavors that will transport your tastebuds! This recipe combines the unexpected sweetness of mango with the fiery kick of chili, all nestled in a creamy coconut curry and topped with crunchy spiced chickpeas.
-- Cuisine: Fusion
-- Servings: 4
-- Prep Time: 20 minutes
-- Cook Time: 35 minutes
-- Total Time: 55 minutes
-- Difficulty: Medium
-- Ingredients:
-  - 1 tbsp coconut oil
-  - 1 large onion, chopped
-  - 2 cloves garlic, minced
-  - 1 inch ginger, grated
-  - 1 red chili, finely chopped (adjust to taste)
-  - 1 mango, peeled and diced
-  - 1 can (400ml) coconut milk
-  - 1 can (400g) chickpeas, drained and rinsed
-  - 1 tbsp curry powder
-  - 1 tsp turmeric
-  - 1/2 tsp cumin
-  - 1/4 tsp cayenne pepper (optional)
-  - Salt and pepper to taste
-  - 2 tbsp olive oil
-  - 1/2 cup chopped cilantro
-  - Lime wedges for serving
-  - Cooked rice for serving
-- Instructions:
-  1. Heat coconut oil in a large pan over medium heat. Add onion and cook until softened, about 5 minutes.
-  2. Stir in garlic, ginger, and chili. Cook for 1 minute more.
-  3. Add curry powder, turmeric, cumin, and cayenne pepper (if using). Cook for 30 seconds, stirring constantly.
-  4. Add mango and coconut milk. Bring to a simmer and cook for 10 minutes, or until the sauce has thickened slightly.
-  5. Meanwhile, heat olive oil in a separate pan over medium-high heat. Add chickpeas and cook, stirring occasionally, until golden brown and crispy, about 10-12 minutes.
-  6. Season chickpeas with salt and pepper.
-  7. Stir the crispy chickpeas into the curry. Season with salt and pepper to taste.
-  8. Serve hot over cooked rice, garnished with cilantro and a lime wedge.
-
-### Recipe: Spicy Pineapple-Glazed Salmon with Coconut Rice
-- Description: An adventurous fusion of sweet, spicy, and savory flavors, this recipe combines the richness of salmon with the unexpected zest of pineapple and coconut.
-- Cuisine: Fusion
-- Servings: 2
-- Prep Time: 15 minutes
-- Cook Time: 20 minutes
-- Total Time: 35 minutes
-- Difficulty: Medium
-- Ingredients:
-  - 1.5 lbs salmon fillet, skin on or off
-  - 1 cup pineapple chunks, fresh or canned
-  - 1/4 cup soy sauce
-  - 2 tablespoons brown sugar
-  - 1 tablespoon sriracha
-  - 1 tablespoon rice vinegar
-  - 1 teaspoon grated ginger
-  - 1/2 teaspoon garlic powder
-  - 1 cup coconut milk
-  - 1 cup basmati rice
-  - 2 cups water
-  - Salt and pepper to taste
-  - Fresh cilantro for garnish (optional)
-- Instructions:
-  1. Preheat oven to 400°F (200°C).
-  2. In a bowl, whisk together pineapple chunks, soy sauce, brown sugar, sriracha, rice vinegar, ginger, and garlic powder.
-  3. Place salmon fillet in a baking dish and pour pineapple glaze over it, ensuring it's evenly coated.
-  4. Season with salt and pepper.
-  5. Bake for 15-20 minutes, or until salmon is cooked through.
-  6. While salmon is baking, rinse basmati rice and combine it with coconut milk and water in a saucepan.
-  7. Bring to a boil, then reduce heat and simmer for 15 minutes, or until all liquid is absorbed.
-  8. Fluff rice with a fork.
-  9. Serve salmon over coconut rice, garnished with fresh cilantro if desired.
-
-### Recipe: Spicy Miso-Glazed Salmon with Charred Pineapple Salsa
-- Description: An explosion of sweet, spicy, and savory flavors that will transport your taste buds to a tropical paradise. This recipe is perfect for adventurous eaters who aren't afraid of bold combinations.
-- Cuisine: Fusion
-- Servings: 2
-- Prep Time: 20 minutes
-- Cook Time: 15 minutes
-- Total Time: 35 minutes
-- Difficulty: Medium
-- Ingredients:
-  - 1 lb salmon fillet, skin on or off
-  - 1/4 cup white miso paste
-  - 2 tbsp soy sauce
-  - 1 tbsp rice vinegar
-  - 1 tbsp honey
-  - 1 tsp sriracha (or more, to taste)
-  - 1/2 tsp grated ginger
-  - 1 ripe pineapple, peeled, cored, and diced
-  - 1 red bell pepper, diced
-  - 1/2 red onion, thinly sliced
-  - 1 jalapeño pepper, seeded and minced
-  - 1/4 cup chopped cilantro
-  - 2 tbsp lime juice
-  - Salt and pepper to taste
-  - Avocado oil or other high-heat cooking oil
-- Instructions:
-  1. Preheat your grill or grill pan to medium-high heat.
-  2. In a small bowl, whisk together miso paste, soy sauce, rice vinegar, honey, sriracha, and ginger. 
-  3. Place salmon fillet on a grilling surface lightly oiled with cooking oil. Brush the salmon generously with the miso glaze.
-  4. Grill the salmon for 4-5 minutes per side, or until cooked through and slightly charred.
-  5. While the salmon is grilling, prepare the salsa. In a medium bowl, combine diced pineapple, red bell pepper, red onion, jalapeño, cilantro, and lime juice. Season with salt and pepper to taste.
-  6. Once the salmon is cooked, remove it from the grill and let it rest for a few minutes.
-  7. Serve the grilled salmon immediately topped with the charred pineapple salsa. Enjoy!
-
-### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
-- Description: An explosion of sweet, spicy, and savory flavors that will transport your taste buds to a tropical paradise. This recipe is perfect for adventurous eaters who love a kick!
-- Cuisine: Fusion
-- Servings: 4
-- Prep Time: 20 minutes
-- Cook Time: 35 minutes
-- Total Time: 55 minutes
-- Difficulty: Medium
-- Ingredients:
-  - 1 tbsp coconut oil
-  - 1 large onion, chopped
-  - 2 cloves garlic, minced
-  - 1 inch ginger, grated
-  - 1 red bell pepper, chopped
-  - 1 green bell pepper, chopped
-  - 1 (14.5 oz) can diced tomatoes, undrained
-  - 1 (13.5 oz) can full-fat coconut milk
-  - 1 cup mango chunks, fresh or frozen
-  - 1 cup chickpeas, drained and rinsed
-  - 2 tbsp curry powder
-  - 1 tbsp chili powder
-  - 1 tsp turmeric
-  - 1/2 tsp cumin
-  - 1/4 tsp cayenne pepper (optional)
-  - Salt and pepper to taste
-  - Fresh cilantro, chopped (for garnish)
-  - Lime wedges (for serving)
-- Instructions:
-  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
-  2. Add garlic and ginger and cook for 1 minute more.
-  3. Stir in bell peppers and cook for 5 minutes, until slightly tender.
-  4. Add diced tomatoes, coconut milk, mango chunks, chickpeas, curry powder, chili powder, turmeric, cumin, and cayenne pepper (if using). Season with salt and pepper.
-  5. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally, until sauce has thickened slightly and flavors have melded.
-  6. Garnish with fresh cilantro and serve with lime wedges. Enjoy!
 
 ### Recipe: Spicy Miso-Glazed Salmon with Charred Bok Choy and Sesame Seeds
 - Description: An adventurous fusion of Japanese and Korean flavors, this recipe features a rich, savory miso glaze, the slight bitterness of charred bok choy, and the nutty crunch of sesame seeds. It's a delightful combination of textures and tastes that will tantalize your taste buds!
@@ -630,12 +492,12 @@
   - 2 green onions, thinly sliced
 - Instructions:
   1. Preheat oven to 400°F (200°C).
-  2. In a bowl, whisk together miso paste, soy sauce, mirin, rice vinegar, gochujang, sesame oil, garlic, and ginger.
-  3. Place salmon fillet in a baking dish and brush generously with the miso glaze.
-  4. Arrange bok choy around the salmon.
-  5. Bake for 15-20 minutes, or until salmon is cooked through and bok choy is tender and slightly charred.
-  6. Garnish with toasted sesame seeds and sliced green onions.
-  7. Serve immediately and enjoy!
+  2. In a bowl, whisk together miso paste, soy sauce, mirin, rice vinegar, gochujang, sesame oil, garlic, and ginger. 
+  3. Place salmon fillet on a grilling surface lightly oiled with cooking oil. Brush the salmon generously with the miso glaze.
+  4. Grill the salmon for 4-5 minutes per side, or until cooked through and slightly charred.
+  5. While the salmon is grilling, prepare the bok choy. In a separate pan, heat a little oil over medium-high heat. Add bok choy, cut side down, and sear until charred and tender, about 2-3 minutes per side.
+  6. Once the salmon is cooked, remove it from the grill and let it rest for a few minutes.
+  7. Serve the grilled salmon immediately with the charred bok choy on the side. Sprinkle with toasted sesame seeds and sliced green onions.
 
 ### Recipe: Spicy Mango & Coconut Curry with Charred Pineapple
 - Description: A vibrant and exotic curry with a surprising sweetness from charred pineapple, perfect for adventurous palates.
@@ -882,8 +744,438 @@
   4. Microwave for 1-2 minutes, or until cheese is melted and bubbly.
   5. Season with salt and pepper to taste.
 
+## Mood: Healthy
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing. Perfect for a healthy and satisfying lunch or dinner.
+- Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
+- Instructions:
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and protein for a healthy and satisfying meal.
+- Cuisine: Global
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1/2 cup chopped red bell pepper
+  - 1/2 cup chopped yellow bell pepper
+  - 1/2 cup chopped orange bell pepper
+  - 1/2 cup chopped broccoli florets
+  - 1/2 cup chopped cucumber
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup crumbled feta cheese
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - Salt and pepper to taste
+  - Optional: Toasted pumpkin seeds for garnish
+- Instructions:
+  1. In a medium saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until quinoa is cooked and liquid is absorbed.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add bell peppers and broccoli to the skillet and cook for 5-7 minutes, or until slightly tender-crisp.
+  4. In a large bowl, combine cooked quinoa, roasted vegetables, cucumber, and cherry tomatoes.
+  5. Drizzle with lemon juice and season with salt and pepper to taste.
+  6. Top with crumbled feta cheese and toasted pumpkin seeds (optional).
+  7. Serve warm or cold.
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutrient-packed bowl featuring quinoa, roasted vegetables, and a zesty lemon tahini dressing.  Perfect for a healthy and satisfying lunch or dinner.
+- Cuisine: Global Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 30 minutes
+- Total Time: 50 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup broccoli florets
+  - 1 red bell pepper, chopped
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup edamame, shelled
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - Salt and pepper to taste
+  - Lemon Tahini Dressing:
+2 tablespoons tahini
+2 tablespoons lemon juice
+1 tablespoon water
+1 clove garlic, minced
+1/4 teaspoon ground cumin
+Pinch of salt
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. Toss broccoli, bell pepper, and red onion with 1 tablespoon olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender and slightly charred.
+  3. While vegetables are roasting, cook quinoa according to package directions.
+  4. In a small bowl, whisk together tahini, lemon juice, water, garlic, cumin, and salt until smooth and creamy. Add more water if needed to reach desired consistency.
+  5. Once quinoa and vegetables are cooked, combine them in a large bowl. Add cherry tomatoes and edamame.
+  6. Drizzle with lemon tahini dressing and toss gently to combine.
+  7. Serve immediately and enjoy!
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious bowl packed with plant-based protein, fiber, and healthy fats to keep you energized throughout the day.
+- Cuisine: Modern Healthy
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup cucumber, diced
+  - 1/2 cup red bell pepper, diced
+  - 1/2 cup orange bell pepper, diced
+  - 1/4 cup red onion, thinly sliced
+  - 1/2 avocado, diced
+  - 1/4 cup chopped fresh cilantro
+  - 2 tablespoons lime juice
+  - 1 tablespoon olive oil
+  - Salt and pepper to taste
+- Instructions:
+  1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
+  2. While quinoa is cooking, prepare the vegetables. Halve cherry tomatoes, dice cucumber and bell peppers, and thinly slice red onion.
+  3. Once quinoa is cooked, fluff with a fork and let cool slightly.
+  4. In a large bowl, combine cooked quinoa, cherry tomatoes, cucumber, bell peppers, red onion, avocado, and cilantro.
+  5. In a small bowl, whisk together lime juice, olive oil, salt, and pepper.
+  6. Pour dressing over the quinoa mixture and toss gently to combine.
+  7. Serve immediately and enjoy!
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious bowl packed with protein, fiber, and healthy fats to fuel your day.
+- Cuisine: Modern Healthy
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1/2 cup chopped red bell pepper
+  - 1/2 cup chopped yellow bell pepper
+  - 1/2 cup chopped orange bell pepper
+  - 1/2 cup chopped cucumber
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup crumbled feta cheese
+  - 1/4 cup chopped fresh parsley
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - Salt and pepper to taste
+- Instructions:
+  1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed.
+  2. While quinoa is cooking, chop vegetables.
+  3. In a large bowl, combine cooked quinoa, bell peppers, cucumber, cherry tomatoes, feta cheese, and parsley.
+  4. In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.
+  5. Pour dressing over quinoa mixture and toss to combine.
+  6. Serve immediately and enjoy!
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing.
+- Cuisine: Healthy
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
+- Instructions:
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+## Mood: Adventurous
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: An explosion of sweet, spicy, and savory flavors, this adventurous curry is a journey for your taste buds. The crispy chickpeas add a delightful textural contrast to the creamy coconut curry.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, rinsed and drained
+  - 2 tbsp olive oil
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for garnish)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in red bell pepper, mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  4. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  5. While the curry simmers, preheat oven to 400°F (200°C). Toss chickpeas with olive oil, salt, and pepper on a baking sheet.
+  6. Roast chickpeas for 15-20 minutes, or until golden brown and crispy.
+  7. Once the curry is cooked, stir in the crispy chickpeas. Garnish with fresh cilantro and lime wedges.
+  8. Serve hot with rice or naan bread.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavourful curry that will transport your taste buds to a tropical paradise, with a delightful kick of spice.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 can (400ml) coconut milk
+  - 1 tbsp red curry paste
+  - 1 tsp ground cumin
+  - 1/2 tsp turmeric
+  - 1/4 tsp cayenne pepper (or more, to taste)
+  - 1 can (400g) chickpeas, drained and rinsed
+  - 1 cup vegetable broth
+  - Salt and pepper to taste
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for serving)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Stir in garlic and ginger and cook for another minute until fragrant.
+  3. Add red bell pepper and cook for 3-5 minutes until slightly tender.
+  4. Add red curry paste, cumin, turmeric, and cayenne pepper. Cook for 1 minute, stirring constantly.
+  5. Pour in coconut milk and vegetable broth. Bring to a simmer.
+  6. Add diced mango and chickpeas. Season with salt and pepper.
+  7. Reduce heat and simmer for 20-25 minutes, or until the sauce has thickened and the flavors have melded.
+  8. Garnish with fresh cilantro and serve with lime wedges.
+
+### Recipe: Spicy Pineapple-Glazed Salmon with Coconut Rice
+- Description: A vibrant fusion of sweet, spicy, and savory flavors, this recipe will transport your taste buds to a tropical paradise with a kick!
+- Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1.5 lbs salmon fillet, skin on or off
+  - 1 cup pineapple chunks, fresh or canned
+  - 1/4 cup soy sauce
+  - 2 tablespoons brown sugar
+  - 1 tablespoon sriracha
+  - 1 tablespoon lime juice
+  - 1 teaspoon grated ginger
+  - 1/2 teaspoon red pepper flakes
+  - 1 cup coconut milk
+  - 1 cup basmati rice
+  - 2 cups water
+  - Salt and pepper to taste
+  - Fresh cilantro for garnish
+  - Lime wedges for serving
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. In a blender, combine pineapple, soy sauce, brown sugar, sriracha, lime juice, ginger, and red pepper flakes. Blend until smooth.
+  3. Place salmon fillet in a baking dish. Pour pineapple glaze over the salmon, ensuring it's evenly coated.
+  4. Season with salt and pepper.
+  5. Bake for 20-25 minutes, or until salmon is cooked through.
+  6. While salmon bakes, rinse basmati rice and combine with coconut milk and water in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
+  7. Fluff rice with a fork.
+  8. Serve salmon over coconut rice. Garnish with fresh cilantro and a lime wedge.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavorful curry with a delightful mix of sweet, spicy, and savory notes.  The crispy chickpeas add a satisfying textural contrast.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, drained and rinsed
+  - 2 tbsp olive oil
+  - 1/4 cup chopped cilantro, for garnish
+  - Lime wedges, for serving
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in bell pepper and cook for 3-5 minutes until slightly softened.
+  4. Add diced mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  5. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  6. While the curry simmers, prepare the chickpeas: Preheat oven to 400°F (200°C). Toss chickpeas with 2 tablespoons of olive oil, salt, and pepper.
+  7. Spread chickpeas in a single layer on a baking sheet and roast for 20-25 minutes, or until crispy.
+  8. Once the curry is cooked, stir in the crispy chickpeas.
+  9. Garnish with chopped cilantro and serve hot with cooked rice and lime wedges.
+
+### Recipe: Spicy Miso-Glazed Salmon with Charred Bok Choy and Sesame Seeds
+- Description: An adventurous fusion of Japanese and Korean flavors, this recipe features a rich, savory miso glaze, the slight bitterness of charred bok choy, and the nutty crunch of sesame seeds. It's a delightful combination of textures and tastes that will tantalize your taste buds!
+- Cuisine: Fusion (Japanese-Korean)
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 lb salmon fillet, skin on or off
+  - 1/4 cup white miso paste
+  - 2 tbsp soy sauce
+  - 1 tbsp mirin
+  - 1 tbsp rice vinegar
+  - 1 tsp gochujang (Korean chili paste)
+  - 1 tsp sesame oil
+  - 1 clove garlic, minced
+  - 1 inch ginger, grated
+  - 1 bunch bok choy, trimmed and halved
+  - 1 tbsp toasted sesame seeds
+  - 2 green onions, thinly sliced
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. In a bowl, whisk together miso paste, soy sauce, mirin, rice vinegar, gochujang, sesame oil, garlic, and ginger. 
+  3. Place salmon fillet on a grilling surface lightly oiled with cooking oil. Brush the salmon generously with the miso glaze.
+  4. Grill the salmon for 4-5 minutes per side, or until cooked through and slightly charred.
+  5. While the salmon is grilling, prepare the bok choy. In a separate pan, heat a little oil over medium-high heat. Add bok choy, cut side down, and sear until charred and tender, about 2-3 minutes per side.
+  6. Once the salmon is cooked, remove it from the grill and let it rest for a few minutes.
+  7. Serve the grilled salmon immediately with the charred bok choy on the side. Sprinkle with toasted sesame seeds and sliced green onions.
+
+### Recipe: Spicy Mango & Coconut Curry with Charred Pineapple
+- Description: A vibrant and exotic curry with a surprising sweetness from charred pineapple, perfect for adventurous palates.
+- Cuisine: Fusion (Thai-Caribbean)
+- Servings: 4
+- Prep Time: 25 minutes
+- Cook Time: 40 minutes
+- Total Time: 65 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large red onion, diced
+  - 2 cloves garlic, minced
+  - 1 red bell pepper, thinly sliced
+  - 1 inch ginger, grated
+  - 1 large mango, peeled and diced
+  - 1 (20 oz) can diced pineapple, drained
+  - 1 red chili, finely chopped (adjust to taste)
+  - 1 cup coconut milk
+  - 1/2 cup vegetable broth
+  - 2 tbsp fish sauce
+  - 1 tbsp brown sugar
+  - 1 tsp ground turmeric
+  - 1/2 tsp ground cumin
+  - 1/4 tsp cayenne pepper
+  - 1 cup cooked basmati rice
+  - Fresh cilantro, chopped
+  - Lime wedges, for garnish
+- Instructions:
+  1. Heat coconut oil in a large pan or wok over medium heat. Add red onion and cook until softened, about 5 minutes.
+  2. Add garlic, bell pepper, and ginger and cook for another 3 minutes.
+  3. Stir in mango, pineapple, chili, coconut milk, vegetable broth, fish sauce, brown sugar, turmeric, cumin, and cayenne pepper. Bring to a simmer.
+  4. Reduce heat to low and cook for 20 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded.
+  5. Meanwhile, grill or char pineapple chunks until slightly caramelized. (Alternatively, you can broil in the oven).
+  6. Serve the curry over basmati rice. Top with charred pineapple, fresh cilantro, and a squeeze of lime juice.
+
+## Mood: Quick & Easy
+
 ### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
-- Description: A quick and flavorful weeknight meal using zucchini noodles instead of pasta for a lighter, healthier twist on shrimp scampi.
+- Description: A quick and healthy weeknight meal that's ready in under 15 minutes!
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 min
+- Cook Time: 10 min
+- Total Time: 15 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 1/4 cup chopped fresh parsley
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Heat olive oil in a large skillet over medium-high heat.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and cook for 1 minute, until fragrant.
+  4. Pour in white wine and lemon juice, and bring to a simmer.
+  5. Add zucchini noodles and cook for 2-3 minutes, until tender-crisp.
+  6. Stir in parsley, salt, pepper, and red pepper flakes (if using).
+  7. Serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a healthy twist.
 - Cuisine: Italian
 - Servings: 2
 - Prep Time: 5 minutes
@@ -901,16 +1193,96 @@
   - Salt and pepper to taste
   - Red pepper flakes (optional)
 - Instructions:
-  1. Heat olive oil and butter in a large skillet over medium heat.
-  2. Add minced garlic and cook for 1 minute until fragrant.
-  3. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
-  4. Pour in white wine and cook for 1 minute, allowing the alcohol to evaporate.
-  5. Add zucchini noodles and toss to combine. Cook for 2-3 minutes, until zucchini is slightly tender-crisp.
-  6. Stir in Parmesan cheese, salt, pepper, and red pepper flakes (if using).
-  7. Serve immediately.
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
+  6. Season with salt, pepper, and red pepper flakes (if using).
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Sausage & Peppers Pasta
+- Description: A quick and flavorful pasta dish perfect for a weeknight meal.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1/2 pound pasta (any short shape)
+  - 1 tablespoon olive oil
+  - 1/2 cup sliced bell peppers (any color)
+  - 1/2 cup sliced Italian sausage
+  - 1/4 cup chopped onion
+  - 2 cloves garlic, minced
+  - 1/2 teaspoon dried oregano
+  - 1/4 teaspoon red pepper flakes (optional)
+  - Salt and black pepper to taste
+  - 1/4 cup grated Parmesan cheese
+- Instructions:
+  1. Cook pasta according to package directions.
+  2. While pasta cooks, heat olive oil in a large skillet over medium heat.
+  3. Add sausage and cook until browned, breaking it up with a spoon.
+  4. Add onion and bell peppers and cook for 3-4 minutes, until softened.
+  5. Stir in garlic, oregano, and red pepper flakes (if using). Cook for 1 minute more.
+  6. Season with salt and pepper to taste.
+  7. Drain pasta and add it to the skillet with the sausage and vegetables.
+  8. Toss to combine.
+  9. Serve immediately, topped with Parmesan cheese.
+
+### Recipe: Speedy Sesame Noodles
+- Description: A quick and flavorful noodle dish perfect for a weeknight meal.
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (udon or spaghetti)
+  - 1/4 cup soy sauce
+  - 2 tablespoons sesame oil
+  - 1 tablespoon rice vinegar
+  - 1 tablespoon honey or maple syrup
+  - 1 clove garlic, minced
+  - 1 teaspoon grated ginger
+  - 1/4 cup chopped scallions
+  - Sesame seeds for garnish (optional)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and rinse with cold water.
+  2. While noodles cook, whisk together soy sauce, sesame oil, rice vinegar, honey, garlic, and ginger in a bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Garnish with chopped scallions and sesame seeds (if using).
+  5. Serve immediately and enjoy!
+
+### Recipe: Speedy Sesame Garlic Noodles
+- Description: A quick and flavourful noodle dish ready in under 15 minutes!
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (spaghetti, linguine, or fettuccine)
+  - 2 cloves garlic, minced
+  - 1 tbsp sesame oil
+  - 1 tbsp soy sauce
+  - 1 tbsp rice vinegar
+  - 1 tsp honey or maple syrup
+  - 1/2 tsp sesame seeds
+  - 1/4 tsp red pepper flakes (optional)
+  - Green onions, chopped (for garnish)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and set aside.
+  2. While noodles cook, whisk together garlic, sesame oil, soy sauce, rice vinegar, honey/maple syrup, sesame seeds, and red pepper flakes (if using) in a small bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Serve immediately, garnished with chopped green onions.
 
 ### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
-- Description: A quick and healthy weeknight meal featuring succulent shrimp, zucchini noodles, and a burst of garlicky flavor.
+- Description: A quick and healthy weeknight meal that's bursting with flavour!
 - Cuisine: Italian
 - Servings: 2
 - Prep Time: 5 minutes
@@ -929,12 +1301,60 @@
   - Red pepper flakes (optional)
 - Instructions:
   1. Heat olive oil in a large skillet over medium-high heat.
-  2. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
-  3. Add minced garlic and cook for 1 minute, until fragrant.
-  4. Pour in white wine and lemon juice, scraping up any browned bits from the bottom of the pan.
-  5. Stir in zucchini noodles and cook for 2-3 minutes, until tender-crisp.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and red pepper flakes (if using) and cook for 1 minute, until fragrant.
+  4. Stir in zucchini noodles, white wine, and lemon juice. Cook for 2-3 minutes, until zucchini is tender-crisp.
+  5. Season with salt and pepper to taste.
+  6. Stir in fresh parsley and serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a low-carb, healthy twist.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons butter
+  - 1/4 cup grated Parmesan cheese
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
   6. Season with salt, pepper, and red pepper flakes (if using).
-  7. Stir in fresh parsley and serve immediately.
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Cheesy Tuna Melt
+- Description: A quick and easy twist on a classic tuna melt, perfect for a weeknight dinner.
+- Cuisine: American
+- Servings: 1
+- Prep Time: 5 minutes
+- Cook Time: 5 minutes
+- Total Time: 10 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 can (5 ounces) tuna in water, drained
+  - 1 slice bread
+  - 1 slice cheddar cheese
+  - 1 tablespoon mayonnaise
+  - Salt and pepper to taste
+- Instructions:
+  1. Spread mayonnaise on bread slice.
+  2. Place tuna on bread.
+  3. Top with cheese.
+  4. Microwave for 1-2 minutes, or until cheese is melted and bubbly.
+  5. Season with salt and pepper to taste.
 
 ## Mood: Healthy
 
@@ -1095,69 +1515,432 @@ Pinch of salt
   6. Serve immediately and enjoy!
 
 ### Recipe: Rainbow Quinoa Power Bowl
-- Description: A vibrant and nutritious quinoa bowl packed with vitamins, fiber, and flavor. Perfect for a healthy and satisfying meal.
-- Cuisine: Fusion
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing.
+- Cuisine: Healthy
 - Servings: 2
-- Prep Time: 15 minutes
-- Cook Time: 20 minutes
-- Total Time: 35 minutes
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
 - Difficulty: Easy
 - Ingredients:
   - 1 cup quinoa, rinsed
   - 1 cup vegetable broth
-  - 1/2 cup chopped red bell pepper
-  - 1/2 cup chopped yellow bell pepper
-  - 1/2 cup chopped orange bell pepper
-  - 1/2 cup chopped broccoli florets
-  - 1/2 cup chopped carrots
-  - 1/4 cup chopped red onion
-  - 1/4 cup chopped fresh cilantro
-  - 1 avocado, diced
-  - 2 tablespoons lime juice
-  - 1 tablespoon olive oil
-  - Salt and pepper to taste
-- Instructions:
-  1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed.
-  2. While quinoa is cooking, steam or sauté the broccoli and carrots until tender-crisp.
-  3. In a large bowl, combine cooked quinoa, bell peppers, broccoli, carrots, and red onion.
-  4. In a small bowl, whisk together lime juice, olive oil, salt, and pepper.
-  5. Pour dressing over quinoa mixture and toss to combine.
-  6. Top with diced avocado and fresh cilantro before serving.
-
-### Recipe: Rainbow Quinoa Power Bowl
-- Description: A vibrant and nutritious bowl packed with wholesome ingredients to boost your energy and mood.  Perfect for a healthy lunch or light dinner.
-- Cuisine: Fusion
-- Servings: 2
-- Prep Time: 15 minutes
-- Cook Time: 20 minutes
-- Total Time: 35 minutes
-- Difficulty: Easy
-- Ingredients:
-  - 1 cup quinoa, rinsed
-  - 1 cup vegetable broth
-  - 1/2 cup chopped red bell pepper
-  - 1/2 cup chopped yellow bell pepper
-  - 1/2 cup chopped orange bell pepper
-  - 1/2 cup chopped broccoli florets
-  - 1/2 cup edamame, shelled
-  - 1/4 cup chopped red onion
-  - 1/4 cup chopped cilantro
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
   - 2 tablespoons olive oil
-  - 1 tablespoon lime juice
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
   - Salt and pepper to taste
-  - Optional toppings: avocado, toasted nuts, seeds
+  - Fresh parsley or cilantro, for garnish
 - Instructions:
-  1. In a saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until quinoa is cooked and liquid is absorbed.
-  2. While quinoa cooks, heat olive oil in a skillet over medium heat. Add red onion and bell peppers and cook for 5-7 minutes, until slightly softened.
-  3. Add broccoli and edamame to the skillet and cook for another 3-5 minutes, until tender-crisp.
-  4. Stir in lime juice, salt, and pepper. 
-  5. Once quinoa is cooked, fluff with a fork. 
-  6. Divide quinoa between two bowls. Top with the vegetable mixture, cilantro, and your choice of optional toppings.
-  7. Enjoy your Rainbow Quinoa Power Bowl!
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+## Mood: Adventurous
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: An explosion of sweet, spicy, and savory flavors, this adventurous curry is a journey for your taste buds. The crispy chickpeas add a delightful textural contrast to the creamy coconut curry.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, rinsed and drained
+  - 2 tbsp olive oil
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for garnish)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in red bell pepper, mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  4. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  5. While the curry simmers, preheat oven to 400°F (200°C). Toss chickpeas with olive oil, salt, and pepper on a baking sheet.
+  6. Roast chickpeas for 15-20 minutes, or until golden brown and crispy.
+  7. Once the curry is cooked, stir in the crispy chickpeas. Garnish with fresh cilantro and lime wedges.
+  8. Serve hot with rice or naan bread.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavourful curry that will transport your taste buds to a tropical paradise, with a delightful kick of spice.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 can (400ml) coconut milk
+  - 1 tbsp red curry paste
+  - 1 tsp ground cumin
+  - 1/2 tsp turmeric
+  - 1/4 tsp cayenne pepper (or more, to taste)
+  - 1 can (400g) chickpeas, drained and rinsed
+  - 1 cup vegetable broth
+  - Salt and pepper to taste
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for serving)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Stir in garlic and ginger and cook for another minute until fragrant.
+  3. Add red bell pepper and cook for 3-5 minutes until slightly tender.
+  4. Add red curry paste, cumin, turmeric, and cayenne pepper. Cook for 1 minute, stirring constantly.
+  5. Pour in coconut milk and vegetable broth. Bring to a simmer.
+  6. Add diced mango and chickpeas. Season with salt and pepper.
+  7. Reduce heat and simmer for 20-25 minutes, or until the sauce has thickened and the flavors have melded.
+  8. Garnish with fresh cilantro and serve with lime wedges.
+
+### Recipe: Spicy Pineapple-Glazed Salmon with Coconut Rice
+- Description: A vibrant fusion of sweet, spicy, and savory flavors, this recipe will transport your taste buds to a tropical paradise with a kick!
+- Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1.5 lbs salmon fillet, skin on or off
+  - 1 cup pineapple chunks, fresh or canned
+  - 1/4 cup soy sauce
+  - 2 tablespoons brown sugar
+  - 1 tablespoon sriracha
+  - 1 tablespoon lime juice
+  - 1 teaspoon grated ginger
+  - 1/2 teaspoon red pepper flakes
+  - 1 cup coconut milk
+  - 1 cup basmati rice
+  - 2 cups water
+  - Salt and pepper to taste
+  - Fresh cilantro for garnish
+  - Lime wedges for serving
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. In a blender, combine pineapple, soy sauce, brown sugar, sriracha, lime juice, ginger, and red pepper flakes. Blend until smooth.
+  3. Place salmon fillet in a baking dish. Pour pineapple glaze over the salmon, ensuring it's evenly coated.
+  4. Season with salt and pepper.
+  5. Bake for 20-25 minutes, or until salmon is cooked through.
+  6. While salmon bakes, rinse basmati rice and combine with coconut milk and water in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
+  7. Fluff rice with a fork.
+  8. Serve salmon over coconut rice. Garnish with fresh cilantro and a lime wedge.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavorful curry with a delightful mix of sweet, spicy, and savory notes.  The crispy chickpeas add a satisfying textural contrast.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, drained and rinsed
+  - 2 tbsp olive oil
+  - 1/4 cup chopped cilantro, for garnish
+  - Lime wedges, for serving
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in bell pepper and cook for 3-5 minutes until slightly softened.
+  4. Add diced mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  5. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  6. While the curry simmers, prepare the chickpeas: Preheat oven to 400°F (200°C). Toss chickpeas with 2 tablespoons of olive oil, salt, and pepper.
+  7. Spread chickpeas in a single layer on a baking sheet and roast for 20-25 minutes, or until crispy.
+  8. Once the curry is cooked, stir in the crispy chickpeas.
+  9. Garnish with chopped cilantro and serve hot with cooked rice and lime wedges.
+
+## Mood: Quick & Easy
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A quick and healthy weeknight meal that's ready in under 15 minutes!
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 min
+- Cook Time: 10 min
+- Total Time: 15 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 1/4 cup chopped fresh parsley
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Heat olive oil in a large skillet over medium-high heat.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and cook for 1 minute, until fragrant.
+  4. Pour in white wine and lemon juice, and bring to a simmer.
+  5. Add zucchini noodles and cook for 2-3 minutes, until tender-crisp.
+  6. Stir in parsley, salt, pepper, and red pepper flakes (if using).
+  7. Serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a healthy twist.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons butter
+  - 1/4 cup grated Parmesan cheese
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
+  6. Season with salt, pepper, and red pepper flakes (if using).
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Sausage & Peppers Pasta
+- Description: A quick and flavorful pasta dish perfect for a weeknight meal.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1/2 pound pasta (any short shape)
+  - 1 tablespoon olive oil
+  - 1/2 cup sliced bell peppers (any color)
+  - 1/2 cup sliced Italian sausage
+  - 1/4 cup chopped onion
+  - 2 cloves garlic, minced
+  - 1/2 teaspoon dried oregano
+  - 1/4 teaspoon red pepper flakes (optional)
+  - Salt and black pepper to taste
+  - 1/4 cup grated Parmesan cheese
+- Instructions:
+  1. Cook pasta according to package directions.
+  2. While pasta cooks, heat olive oil in a large skillet over medium heat.
+  3. Add sausage and cook until browned, breaking it up with a spoon.
+  4. Add onion and bell peppers and cook for 3-4 minutes, until softened.
+  5. Stir in garlic, oregano, and red pepper flakes (if using). Cook for 1 minute more.
+  6. Season with salt and pepper to taste.
+  7. Drain pasta and add it to the skillet with the sausage and vegetables.
+  8. Toss to combine.
+  9. Serve immediately, topped with Parmesan cheese.
+
+### Recipe: Speedy Sesame Noodles
+- Description: A quick and flavorful noodle dish perfect for a weeknight meal.
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (udon or spaghetti)
+  - 1/4 cup soy sauce
+  - 2 tablespoons sesame oil
+  - 1 tablespoon rice vinegar
+  - 1 tablespoon honey or maple syrup
+  - 1 clove garlic, minced
+  - 1 teaspoon grated ginger
+  - 1/4 cup chopped scallions
+  - Sesame seeds for garnish (optional)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and rinse with cold water.
+  2. While noodles cook, whisk together soy sauce, sesame oil, rice vinegar, honey, garlic, and ginger in a bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Garnish with chopped scallions and sesame seeds (if using).
+  5. Serve immediately and enjoy!
+
+### Recipe: Speedy Sesame Garlic Noodles
+- Description: A quick and flavourful noodle dish ready in under 15 minutes!
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (spaghetti, linguine, or fettuccine)
+  - 2 cloves garlic, minced
+  - 1 tbsp sesame oil
+  - 1 tbsp soy sauce
+  - 1 tbsp rice vinegar
+  - 1 tsp honey or maple syrup
+  - 1/2 tsp sesame seeds
+  - 1/4 tsp red pepper flakes (optional)
+  - Green onions, chopped (for garnish)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and set aside.
+  2. While noodles cook, whisk together garlic, sesame oil, soy sauce, rice vinegar, honey/maple syrup, sesame seeds, and red pepper flakes (if using) in a small bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Serve immediately, garnished with chopped green onions.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A quick and healthy weeknight meal that's bursting with flavour!
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons lemon juice
+  - 1/4 cup chopped fresh parsley
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Heat olive oil in a large skillet over medium-high heat.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and red pepper flakes (if using) and cook for 1 minute, until fragrant.
+  4. Stir in zucchini noodles, white wine, and lemon juice. Cook for 2-3 minutes, until zucchini is tender-crisp.
+  5. Season with salt and pepper to taste.
+  6. Stir in fresh parsley and serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a low-carb, healthy twist.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons butter
+  - 1/4 cup grated Parmesan cheese
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
+  6. Season with salt, pepper, and red pepper flakes (if using).
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Cheesy Tuna Melt
+- Description: A quick and easy twist on a classic tuna melt, perfect for a weeknight dinner.
+- Cuisine: American
+- Servings: 1
+- Prep Time: 5 minutes
+- Cook Time: 5 minutes
+- Total Time: 10 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 can (5 ounces) tuna in water, drained
+  - 1 slice bread
+  - 1 slice cheddar cheese
+  - 1 tablespoon mayonnaise
+  - Salt and pepper to taste
+- Instructions:
+  1. Spread mayonnaise on bread slice.
+  2. Place tuna on bread.
+  3. Top with cheese.
+  4. Microwave for 1-2 minutes, or until cheese is melted and bubbly.
+  5. Season with salt and pepper to taste.
+
+## Mood: Healthy
 
 ### Recipe: Rainbow Quinoa Power Bowl
-- Description: A vibrant and nutrient-packed quinoa bowl bursting with flavor and texture. Perfect for a healthy and satisfying meal.
-- Cuisine: Global Fusion
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing. Perfect for a healthy and satisfying lunch or dinner.
+- Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
+- Instructions:
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and protein for a healthy and satisfying meal.
+- Cuisine: Global
 - Servings: 2
 - Prep Time: 15 minutes
 - Cook Time: 20 minutes
@@ -1169,21 +1952,85 @@ Pinch of salt
   - 1/2 cup chopped red bell pepper
   - 1/2 cup chopped yellow bell pepper
   - 1/2 cup chopped orange bell pepper
+  - 1/2 cup chopped broccoli florets
   - 1/2 cup chopped cucumber
   - 1/2 cup cherry tomatoes, halved
-  - 1/4 cup chopped red onion
+  - 1/4 cup crumbled feta cheese
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - Salt and pepper to taste
+  - Optional: Toasted pumpkin seeds for garnish
+- Instructions:
+  1. In a medium saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until quinoa is cooked and liquid is absorbed.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add bell peppers and broccoli to the skillet and cook for 5-7 minutes, or until slightly tender-crisp.
+  4. In a large bowl, combine cooked quinoa, roasted vegetables, cucumber, and cherry tomatoes.
+  5. Drizzle with lemon juice and season with salt and pepper to taste.
+  6. Top with crumbled feta cheese and toasted pumpkin seeds (optional).
+  7. Serve warm or cold.
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutrient-packed bowl featuring quinoa, roasted vegetables, and a zesty lemon tahini dressing.  Perfect for a healthy and satisfying lunch or dinner.
+- Cuisine: Global Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 30 minutes
+- Total Time: 50 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup broccoli florets
+  - 1 red bell pepper, chopped
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup edamame, shelled
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - Salt and pepper to taste
+  - Lemon Tahini Dressing:
+2 tablespoons tahini
+2 tablespoons lemon juice
+1 tablespoon water
+1 clove garlic, minced
+1/4 teaspoon ground cumin
+Pinch of salt
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. Toss broccoli, bell pepper, and red onion with 1 tablespoon olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender and slightly charred.
+  3. While vegetables are roasting, cook quinoa according to package directions.
+  4. In a small bowl, whisk together tahini, lemon juice, water, garlic, cumin, and salt until smooth and creamy. Add more water if needed to reach desired consistency.
+  5. Once quinoa and vegetables are cooked, combine them in a large bowl. Add cherry tomatoes and edamame.
+  6. Drizzle with lemon tahini dressing and toss gently to combine.
+  7. Serve immediately and enjoy!
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious bowl packed with plant-based protein, fiber, and healthy fats to keep you energized throughout the day.
+- Cuisine: Modern Healthy
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup cucumber, diced
+  - 1/2 cup red bell pepper, diced
+  - 1/2 cup orange bell pepper, diced
+  - 1/4 cup red onion, thinly sliced
+  - 1/2 avocado, diced
   - 1/4 cup chopped fresh cilantro
-  - 2 tablespoons toasted pepitas
   - 2 tablespoons lime juice
   - 1 tablespoon olive oil
   - Salt and pepper to taste
 - Instructions:
   1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
-  2. While quinoa cooks, prepare the vegetables. Chop the bell peppers, cucumber, tomatoes, and red onion.
-  3. In a large bowl, combine cooked quinoa, bell peppers, cucumber, tomatoes, red onion, and cilantro.
-  4. In a small bowl, whisk together lime juice, olive oil, salt, and pepper.
-  5. Pour dressing over quinoa mixture and toss gently to combine.
-  6. Top with toasted pepitas and serve immediately.
+  2. While quinoa is cooking, prepare the vegetables. Halve cherry tomatoes, dice cucumber and bell peppers, and thinly slice red onion.
+  3. Once quinoa is cooked, fluff with a fork and let cool slightly.
+  4. In a large bowl, combine cooked quinoa, cherry tomatoes, cucumber, bell peppers, red onion, avocado, and cilantro.
+  5. In a small bowl, whisk together lime juice, olive oil, salt, and pepper.
+  6. Pour dressing over the quinoa mixture and toss gently to combine.
+  7. Serve immediately and enjoy!
 
 ### Recipe: Rainbow Quinoa Power Bowl
 - Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing.
@@ -1198,29 +2045,420 @@ Pinch of salt
   - 1 cup vegetable broth
   - 1 red bell pepper, chopped
   - 1 orange bell pepper, chopped
-  - 1 cup broccoli florets
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
   - 1/2 cup cherry tomatoes, halved
-  - 1/2 cup edamame, shelled
   - 1/4 cup red onion, thinly sliced
   - 2 tablespoons olive oil
-  - Salt and pepper to taste
-  - For the Lemon Tahini Dressing:
+  - 1 tablespoon lemon juice
   - 2 tablespoons tahini
-  - 2 tablespoons lemon juice
   - 1 tablespoon water
-  - 1 clove garlic, minced
-  - 1/4 teaspoon ground cumin
-  - Pinch of salt
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
 - Instructions:
-  1. Cook quinoa according to package directions, using vegetable broth instead of water.
-  2. While quinoa cooks, roast vegetables: Preheat oven to 400°F (200°C). Toss bell peppers, broccoli, and red onion with olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender and slightly charred.
-  3. Meanwhile, prepare the dressing: Whisk together tahini, lemon juice, water, garlic, cumin, and salt until smooth and creamy.
-  4. Once quinoa and vegetables are cooked, assemble bowls: Divide quinoa between two bowls. Top with roasted vegetables, cherry tomatoes, and edamame.
-  5. Drizzle with lemon tahini dressing and serve immediately.
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+## Mood: Adventurous
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: An explosion of sweet, spicy, and savory flavors, this adventurous curry is a journey for your taste buds. The crispy chickpeas add a delightful textural contrast to the creamy coconut curry.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, rinsed and drained
+  - 2 tbsp olive oil
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for garnish)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in red bell pepper, mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  4. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  5. While the curry simmers, preheat oven to 400°F (200°C). Toss chickpeas with olive oil, salt, and pepper on a baking sheet.
+  6. Roast chickpeas for 15-20 minutes, or until golden brown and crispy.
+  7. Once the curry is cooked, stir in the crispy chickpeas. Garnish with fresh cilantro and lime wedges.
+  8. Serve hot with rice or naan bread.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavourful curry that will transport your taste buds to a tropical paradise, with a delightful kick of spice.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 can (400ml) coconut milk
+  - 1 tbsp red curry paste
+  - 1 tsp ground cumin
+  - 1/2 tsp turmeric
+  - 1/4 tsp cayenne pepper (or more, to taste)
+  - 1 can (400g) chickpeas, drained and rinsed
+  - 1 cup vegetable broth
+  - Salt and pepper to taste
+  - Fresh cilantro, chopped (for garnish)
+  - Lime wedges (for serving)
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Stir in garlic and ginger and cook for another minute until fragrant.
+  3. Add red bell pepper and cook for 3-5 minutes until slightly tender.
+  4. Add red curry paste, cumin, turmeric, and cayenne pepper. Cook for 1 minute, stirring constantly.
+  5. Pour in coconut milk and vegetable broth. Bring to a simmer.
+  6. Add diced mango and chickpeas. Season with salt and pepper.
+  7. Reduce heat and simmer for 20-25 minutes, or until the sauce has thickened and the flavors have melded.
+  8. Garnish with fresh cilantro and serve with lime wedges.
+
+### Recipe: Spicy Pineapple-Glazed Salmon with Coconut Rice
+- Description: A vibrant fusion of sweet, spicy, and savory flavors, this recipe will transport your taste buds to a tropical paradise with a kick!
+- Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1.5 lbs salmon fillet, skin on or off
+  - 1 cup pineapple chunks, fresh or canned
+  - 1/4 cup soy sauce
+  - 2 tablespoons brown sugar
+  - 1 tablespoon sriracha
+  - 1 tablespoon lime juice
+  - 1 teaspoon grated ginger
+  - 1/2 teaspoon red pepper flakes
+  - 1 cup coconut milk
+  - 1 cup basmati rice
+  - 2 cups water
+  - Salt and pepper to taste
+  - Fresh cilantro for garnish
+  - Lime wedges for serving
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. In a blender, combine pineapple, soy sauce, brown sugar, sriracha, lime juice, ginger, and red pepper flakes. Blend until smooth.
+  3. Place salmon fillet in a baking dish. Pour pineapple glaze over the salmon, ensuring it's evenly coated.
+  4. Season with salt and pepper.
+  5. Bake for 20-25 minutes, or until salmon is cooked through.
+  6. While salmon bakes, rinse basmati rice and combine with coconut milk and water in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
+  7. Fluff rice with a fork.
+  8. Serve salmon over coconut rice. Garnish with fresh cilantro and a lime wedge.
+
+### Recipe: Spicy Mango & Coconut Curry with Crispy Chickpeas
+- Description: A vibrant and flavorful curry with a delightful mix of sweet, spicy, and savory notes.  The crispy chickpeas add a satisfying textural contrast.
+- Cuisine: Fusion
+- Servings: 4
+- Prep Time: 20 minutes
+- Cook Time: 35 minutes
+- Total Time: 55 minutes
+- Difficulty: Medium
+- Ingredients:
+  - 1 tbsp coconut oil
+  - 1 large onion, chopped
+  - 2 cloves garlic, minced
+  - 1 inch ginger, grated
+  - 1 red bell pepper, chopped
+  - 1 mango, diced
+  - 1 (14-ounce) can diced tomatoes, undrained
+  - 1 (13.5-ounce) can full-fat coconut milk
+  - 1 cup vegetable broth
+  - 1 tbsp curry powder
+  - 1 tsp ground cumin
+  - 1/2 tsp cayenne pepper (or more, to taste)
+  - 1/4 tsp turmeric
+  - Salt and pepper to taste
+  - 1 (15-ounce) can chickpeas, drained and rinsed
+  - 2 tbsp olive oil
+  - 1/4 cup chopped cilantro, for garnish
+  - Lime wedges, for serving
+- Instructions:
+  1. Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.
+  2. Add garlic and ginger and cook for 1 minute more.
+  3. Stir in bell pepper and cook for 3-5 minutes until slightly softened.
+  4. Add diced mango, diced tomatoes, coconut milk, vegetable broth, curry powder, cumin, cayenne pepper, and turmeric. Season with salt and pepper.
+  5. Bring to a simmer, then reduce heat and cook for 20 minutes, stirring occasionally.
+  6. While the curry simmers, prepare the chickpeas: Preheat oven to 400°F (200°C). Toss chickpeas with 2 tablespoons of olive oil, salt, and pepper.
+  7. Spread chickpeas in a single layer on a baking sheet and roast for 20-25 minutes, or until crispy.
+  8. Once the curry is cooked, stir in the crispy chickpeas.
+  9. Garnish with chopped cilantro and serve hot with cooked rice and lime wedges.
+
+## Mood: Quick & Easy
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A quick and healthy weeknight meal that's ready in under 15 minutes!
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 min
+- Cook Time: 10 min
+- Total Time: 15 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 1/4 cup chopped fresh parsley
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Heat olive oil in a large skillet over medium-high heat.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and cook for 1 minute, until fragrant.
+  4. Pour in white wine and lemon juice, and bring to a simmer.
+  5. Add zucchini noodles and cook for 2-3 minutes, until tender-crisp.
+  6. Stir in parsley, salt, pepper, and red pepper flakes (if using).
+  7. Serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a healthy twist.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons butter
+  - 1/4 cup grated Parmesan cheese
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
+  6. Season with salt, pepper, and red pepper flakes (if using).
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Sausage & Peppers Pasta
+- Description: A quick and flavorful pasta dish perfect for a weeknight meal.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1/2 pound pasta (any short shape)
+  - 1 tablespoon olive oil
+  - 1/2 cup sliced bell peppers (any color)
+  - 1/2 cup sliced Italian sausage
+  - 1/4 cup chopped onion
+  - 2 cloves garlic, minced
+  - 1/2 teaspoon dried oregano
+  - 1/4 teaspoon red pepper flakes (optional)
+  - Salt and black pepper to taste
+  - 1/4 cup grated Parmesan cheese
+- Instructions:
+  1. Cook pasta according to package directions.
+  2. While pasta cooks, heat olive oil in a large skillet over medium heat.
+  3. Add sausage and cook until browned, breaking it up with a spoon.
+  4. Add onion and bell peppers and cook for 3-4 minutes, until softened.
+  5. Stir in garlic, oregano, and red pepper flakes (if using). Cook for 1 minute more.
+  6. Season with salt and pepper to taste.
+  7. Drain pasta and add it to the skillet with the sausage and vegetables.
+  8. Toss to combine.
+  9. Serve immediately, topped with Parmesan cheese.
+
+### Recipe: Speedy Sesame Noodles
+- Description: A quick and flavorful noodle dish perfect for a weeknight meal.
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (udon or spaghetti)
+  - 1/4 cup soy sauce
+  - 2 tablespoons sesame oil
+  - 1 tablespoon rice vinegar
+  - 1 tablespoon honey or maple syrup
+  - 1 clove garlic, minced
+  - 1 teaspoon grated ginger
+  - 1/4 cup chopped scallions
+  - Sesame seeds for garnish (optional)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and rinse with cold water.
+  2. While noodles cook, whisk together soy sauce, sesame oil, rice vinegar, honey, garlic, and ginger in a bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Garnish with chopped scallions and sesame seeds (if using).
+  5. Serve immediately and enjoy!
+
+### Recipe: Speedy Sesame Garlic Noodles
+- Description: A quick and flavourful noodle dish ready in under 15 minutes!
+- Cuisine: Asian Fusion
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 8 minutes
+- Total Time: 13 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 8 oz dried noodles (spaghetti, linguine, or fettuccine)
+  - 2 cloves garlic, minced
+  - 1 tbsp sesame oil
+  - 1 tbsp soy sauce
+  - 1 tbsp rice vinegar
+  - 1 tsp honey or maple syrup
+  - 1/2 tsp sesame seeds
+  - 1/4 tsp red pepper flakes (optional)
+  - Green onions, chopped (for garnish)
+- Instructions:
+  1. Cook noodles according to package directions. Drain and set aside.
+  2. While noodles cook, whisk together garlic, sesame oil, soy sauce, rice vinegar, honey/maple syrup, sesame seeds, and red pepper flakes (if using) in a small bowl.
+  3. Add cooked noodles to the sauce and toss to coat.
+  4. Serve immediately, garnished with chopped green onions.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A quick and healthy weeknight meal that's bursting with flavour!
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons lemon juice
+  - 1/4 cup chopped fresh parsley
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Heat olive oil in a large skillet over medium-high heat.
+  2. Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.
+  3. Add minced garlic and red pepper flakes (if using) and cook for 1 minute, until fragrant.
+  4. Stir in zucchini noodles, white wine, and lemon juice. Cook for 2-3 minutes, until zucchini is tender-crisp.
+  5. Season with salt and pepper to taste.
+  6. Stir in fresh parsley and serve immediately.
+
+### Recipe: Speedy Garlic Shrimp Scampi with Zucchini Noodles
+- Description: A light, flavorful, and incredibly fast shrimp scampi made with zucchini noodles instead of pasta for a low-carb, healthy twist.
+- Cuisine: Italian
+- Servings: 2
+- Prep Time: 5 minutes
+- Cook Time: 10 minutes
+- Total Time: 15 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 pound shrimp, peeled and deveined
+  - 2 medium zucchini, spiralized or julienned
+  - 4 cloves garlic, minced
+  - 1/4 cup dry white wine
+  - 2 tablespoons olive oil
+  - 2 tablespoons butter
+  - 1/4 cup grated Parmesan cheese
+  - Salt and pepper to taste
+  - Red pepper flakes (optional)
+- Instructions:
+  1. Melt butter with olive oil in a large skillet over medium heat.
+  2. Add minced garlic and cook for about 30 seconds until fragrant.
+  3. Pour in white wine and let it simmer for a minute.
+  4. Add shrimp and cook for 2-3 minutes per side, until pink and opaque.
+  5. Stir in zucchini noodles and cook for 2-3 minutes until tender-crisp.
+  6. Season with salt, pepper, and red pepper flakes (if using).
+  7. Remove from heat and stir in Parmesan cheese.
+  8. Serve immediately.
+
+### Recipe: Speedy Cheesy Tuna Melt
+- Description: A quick and easy twist on a classic tuna melt, perfect for a weeknight dinner.
+- Cuisine: American
+- Servings: 1
+- Prep Time: 5 minutes
+- Cook Time: 5 minutes
+- Total Time: 10 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 can (5 ounces) tuna in water, drained
+  - 1 slice bread
+  - 1 slice cheddar cheese
+  - 1 tablespoon mayonnaise
+  - Salt and pepper to taste
+- Instructions:
+  1. Spread mayonnaise on bread slice.
+  2. Place tuna on bread.
+  3. Top with cheese.
+  4. Microwave for 1-2 minutes, or until cheese is melted and bubbly.
+  5. Season with salt and pepper to taste.
+
+## Mood: Healthy
 
 ### Recipe: Rainbow Quinoa Power Bowl
-- Description: A vibrant and nutritious bowl packed with protein, fiber, and healthy fats to keep you energized throughout the day.
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing. Perfect for a healthy and satisfying lunch or dinner.
 - Cuisine: Fusion
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
+- Instructions:
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and protein for a healthy and satisfying meal.
+- Cuisine: Global
 - Servings: 2
 - Prep Time: 15 minutes
 - Cook Time: 20 minutes
@@ -1229,357 +2467,436 @@ Pinch of salt
 - Ingredients:
   - 1 cup quinoa, rinsed
   - 1 cup vegetable broth
+  - 1/2 cup chopped red bell pepper
+  - 1/2 cup chopped yellow bell pepper
+  - 1/2 cup chopped orange bell pepper
   - 1/2 cup chopped broccoli florets
-  - 1/2 cup chopped bell peppers (mix of colors)
+  - 1/2 cup chopped cucumber
   - 1/2 cup cherry tomatoes, halved
-  - 1/2 cup edamame, shelled
   - 1/4 cup crumbled feta cheese
   - 2 tablespoons olive oil
   - 1 tablespoon lemon juice
   - Salt and pepper to taste
-  - Optional: Fresh herbs like cilantro or parsley for garnish
+  - Optional: Toasted pumpkin seeds for garnish
 - Instructions:
-  1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, or until all liquid is absorbed.
-  2. While quinoa is cooking, steam or sauté broccoli and bell peppers until tender-crisp.
-  3. In a large bowl, combine cooked quinoa, broccoli, bell peppers, cherry tomatoes, and edamame.
-  4. Drizzle with olive oil and lemon juice. Season with salt and pepper to taste.
-  5. Top with crumbled feta cheese and fresh herbs (if using).
-  6. Serve immediately and enjoy!
+  1. In a medium saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until quinoa is cooked and liquid is absorbed.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add bell peppers and broccoli to the skillet and cook for 5-7 minutes, or until slightly tender-crisp.
+  4. In a large bowl, combine cooked quinoa, roasted vegetables, cucumber, and cherry tomatoes.
+  5. Drizzle with lemon juice and season with salt and pepper to taste.
+  6. Top with crumbled feta cheese and toasted pumpkin seeds (optional).
+  7. Serve warm or cold.
 
-## Mood: Celebratory
-
-### Recipe: Celebration Sparkling Rosé Grapefruit Salad with Honey-Lime Dressing
-- Description: A vibrant and refreshing salad perfect for a celebratory occasion. The sweet and tart flavors of grapefruit and berries are balanced by a light and zesty honey-lime dressing, creating a sophisticated yet easy-to-make dish.
-- Cuisine: Fusion
-- Servings: 6
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutrient-packed bowl featuring quinoa, roasted vegetables, and a zesty lemon tahini dressing.  Perfect for a healthy and satisfying lunch or dinner.
+- Cuisine: Global Fusion
+- Servings: 2
 - Prep Time: 20 minutes
-- Cook Time: 0 minutes
-- Total Time: 20 minutes
+- Cook Time: 30 minutes
+- Total Time: 50 minutes
 - Difficulty: Easy
 - Ingredients:
-  - 1 pink grapefruit, segmented
-  - 1 cup fresh raspberries
-  - 1 cup fresh blackberries
-  - 1/2 cup thinly sliced red onion
-  - 1/4 cup crumbled feta cheese
-  - 2 tablespoons honey
-  - 1 tablespoon lime juice
+  - 1 cup quinoa, rinsed
+  - 1 cup broccoli florets
+  - 1 red bell pepper, chopped
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup edamame, shelled
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - Salt and pepper to taste
+  - Lemon Tahini Dressing:
+2 tablespoons tahini
+2 tablespoons lemon juice
+1 tablespoon water
+1 clove garlic, minced
+1/4 teaspoon ground cumin
+Pinch of salt
+- Instructions:
+  1. Preheat oven to 400°F (200°C).
+  2. Toss broccoli, bell pepper, and red onion with 1 tablespoon olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender and slightly charred.
+  3. While vegetables are roasting, cook quinoa according to package directions.
+  4. In a small bowl, whisk together tahini, lemon juice, water, garlic, cumin, and salt until smooth and creamy. Add more water if needed to reach desired consistency.
+  5. Once quinoa and vegetables are cooked, combine them in a large bowl. Add cherry tomatoes and edamame.
+  6. Drizzle with lemon tahini dressing and toss gently to combine.
+  7. Serve immediately and enjoy!
+
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious bowl packed with plant-based protein, fiber, and healthy fats to keep you energized throughout the day.
+- Cuisine: Modern Healthy
+- Servings: 2
+- Prep Time: 15 minutes
+- Cook Time: 20 minutes
+- Total Time: 35 minutes
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1/2 cup cherry tomatoes, halved
+  - 1/2 cup cucumber, diced
+  - 1/2 cup red bell pepper, diced
+  - 1/2 cup orange bell pepper, diced
+  - 1/4 cup red onion, thinly sliced
+  - 1/2 avocado, diced
+  - 1/4 cup chopped fresh cilantro
+  - 2 tablespoons lime juice
   - 1 tablespoon olive oil
-  - Pinch of salt
-  - Pinch of black pepper
-  - Sparkling Rosé wine, for garnish (optional)
+  - Salt and pepper to taste
 - Instructions:
-  1. In a large bowl, combine grapefruit segments, raspberries, blackberries, and red onion.
-  2. In a small bowl, whisk together honey, lime juice, olive oil, salt, and pepper.
-  3. Pour dressing over the fruit and onion mixture; toss gently to combine.
-  4. Top with crumbled feta cheese.
-  5. Serve immediately, garnished with a splash of Sparkling Rosé wine if desired.
+  1. Combine quinoa and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until all liquid is absorbed.
+  2. While quinoa is cooking, prepare the vegetables. Halve cherry tomatoes, dice cucumber and bell peppers, and thinly slice red onion.
+  3. Once quinoa is cooked, fluff with a fork and let cool slightly.
+  4. In a large bowl, combine cooked quinoa, cherry tomatoes, cucumber, bell peppers, red onion, avocado, and cilantro.
+  5. In a small bowl, whisk together lime juice, olive oil, salt, and pepper.
+  6. Pour dressing over the quinoa mixture and toss gently to combine.
+  7. Serve immediately and enjoy!
 
-### Recipe: Celebration Symphony Cake
-- Description: A vibrant and layered cake that's as festive as it is delicious, perfect for birthdays, anniversaries, or any celebratory occasion.
-- Cuisine: Fusion
-- Servings: 12
-- Prep Time: 45 minutes
-- Cook Time: 35 minutes
-- Total Time: 80 minutes
-- Difficulty: Medium
+### Recipe: Rainbow Quinoa Power Bowl
+- Description: A vibrant and nutritious quinoa bowl packed with colorful vegetables and a zesty lemon tahini dressing.
+- Cuisine: Healthy
+- Servings: 2
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
+- Difficulty: Easy
 - Ingredients:
-  - 1 box (15.25 ounces) yellow cake mix
-  - 1 box (3.4 ounces) instant vanilla pudding mix
-  - 4 large eggs
-  - 1 cup milk
-  - 1/2 cup vegetable oil
-  - 1 teaspoon vanilla extract
-  - 1 cup fresh raspberries
-  - 1 cup fresh blueberries
-  - 1/2 cup pomegranate seeds
-  - 1 cup heavy cream
-  - 1/4 cup powdered sugar
-  - 1 teaspoon vanilla extract
-  - Edible gold leaf (optional)
-  - Fresh mint leaves (optional)
+  - 1 cup quinoa, rinsed
+  - 1 cup vegetable broth
+  - 1 red bell pepper, chopped
+  - 1 orange bell pepper, chopped
+  - 1/2 cup broccoli florets
+  - 1/2 cup shredded carrots
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup red onion, thinly sliced
+  - 2 tablespoons olive oil
+  - 1 tablespoon lemon juice
+  - 2 tablespoons tahini
+  - 1 tablespoon water
+  - Salt and pepper to taste
+  - Fresh parsley or cilantro, for garnish
 - Instructions:
-  1. Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
-  2. In a large bowl, combine cake mix, pudding mix, eggs, milk, oil, and vanilla extract. Beat with an electric mixer on medium speed for 2 minutes.
-  3. Divide batter evenly between prepared cake pans.
-  4. Bake for 30-35 minutes, or until a wooden skewer inserted into the center comes out clean.
-  5. Let cakes cool in pans for 10 minutes before inverting onto a wire rack to cool completely.
-  6. While cakes are cooling, whip heavy cream, powdered sugar, and vanilla extract in a bowl until stiff peaks form.
-  7. Once cakes are completely cool, level the tops with a serrated knife if necessary.
-  8. Place one cake layer on a serving plate. Spread half of the whipped cream over the top.
-  9. Arrange half of the raspberries, blueberries, and pomegranate seeds over the whipped cream.
-  10. Top with the second cake layer and frost the entire cake with the remaining whipped cream.
-  11. Garnish with edible gold leaf and fresh mint leaves, if desired.
-  12. Refrigerate for at least 30 minutes before serving to allow flavors to meld.
+  1. Cook quinoa according to package directions using vegetable broth instead of water.
+  2. While quinoa is cooking, heat olive oil in a large skillet over medium heat.
+  3. Add red and orange bell peppers, broccoli, and carrots. Cook until tender-crisp, about 5-7 minutes.
+  4. Stir in cherry tomatoes and red onion during the last 2 minutes of cooking.
+  5. In a small bowl, whisk together lemon juice, tahini, and water until smooth. Season with salt and pepper.
+  6. Once quinoa is cooked, fluff with a fork. Divide quinoa among two bowls.
+  7. Top quinoa with the vegetable mixture and drizzle with the lemon tahini dressing.
+  8. Garnish with fresh parsley or cilantro and serve immediately.
 
-### Recipe: [Generation Failed]
-### Recipe: Celebration Symphony Cake
-- Description: A vibrant and layered cake that's as visually stunning as it is delicious, perfect for any celebratory occasion.
-- Cuisine: Fusion
-- Servings: 12
-- Prep Time: 45 minutes
-- Cook Time: 35 minutes
-- Total Time: 80 minutes
-- Difficulty: Medium
-- Ingredients:
-  - 1 box (15.25 ounces) yellow cake mix
-  - 1 box (3.4 ounces) instant vanilla pudding mix
-  - 4 large eggs
-  - 1 cup milk
-  - 1/2 cup vegetable oil
-  - 1 teaspoon vanilla extract
-  - 1 cup fresh raspberries
-  - 1 cup fresh blueberries
-  - 1/2 cup chopped pistachios
-  - 1 container (8 ounces) whipped cream cheese frosting
-  - 1/4 cup apricot preserves, melted
-  - Edible gold glitter (optional)
-- Instructions:
-  1. Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.
-  2. In a large bowl, combine cake mix, pudding mix, eggs, milk, oil, and vanilla extract. Beat with an electric mixer on medium speed for 2 minutes.
-  3. Divide batter evenly between prepared cake pans.
-  4. Bake for 30-35 minutes, or until a wooden skewer inserted into the center comes out clean.
-  5. Let cakes cool in pans for 10 minutes before inverting onto a wire rack to cool completely.
-  6. Once cakes are completely cool, use a serrated knife to level the tops if necessary.
-  7. In a small bowl, gently toss together raspberries, blueberries, and pistachios.
-  8. Place one cake layer on a serving plate. Spread half of the melted apricot preserves over the top.
-  9. Evenly distribute half of the berry and pistachio mixture over the preserves.
-  10. Frost with half of the whipped cream cheese frosting.
-  11. Top with the second cake layer and repeat the layering process using the remaining preserves, berry mixture, and frosting.
-  12. Gently sprinkle with edible gold glitter (optional).
-  13. Refrigerate for at least 30 minutes before serving to allow flavors to meld.
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Romantic
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Spicy
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Lazy Sunday
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Workout Fuel
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Kid-Friendly
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Fancy Dinner
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Budget
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Hangover Cure
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Impress a Date
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Potluck Dish
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-## Mood: Grilling Time
-
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
 ## Mood: Baking Day
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Classic Banana Bread
+- Description: Moist, sweet banana bread with a hint of cinnamon, perfect for a cozy baking day.
+- Cuisine: American
+- Servings: 8
+- Prep Time: 10 min
+- Cook Time: 50 min
+- Total Time: 1 hr
+- Difficulty: Easy
+- Ingredients:
+  - 3 ripe bananas, mashed
+  - 1/3 cup melted butter
+  - 1/2 cup sugar
+  - 1 egg, beaten
+  - 1 tsp vanilla extract
+  - 1 tsp baking soda
+  - Pinch of salt
+  - 1 1/2 cups all-purpose flour
+- Instructions:
+  1. Preheat oven to 350°F (175°C). Grease a loaf pan.
+  2. Mix bananas and butter. Add sugar, egg, and vanilla.
+  3. Stir in baking soda, salt, and flour.
+  4. Pour into pan and bake 50 min. Cool before slicing.
+
+### Recipe: Chewy Chocolate Chip Cookies
+- Description: Soft, chewy cookies loaded with chocolate chips—an all-time baking favorite.
+- Cuisine: American
+- Servings: 24
+- Prep Time: 15 min
+- Cook Time: 10 min
+- Total Time: 25 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup butter, softened
+  - 1 cup brown sugar
+  - 1/2 cup white sugar
+  - 2 eggs
+  - 2 tsp vanilla extract
+  - 2 1/4 cups flour
+  - 1 tsp baking soda
+  - 1/2 tsp salt
+  - 2 cups chocolate chips
+- Instructions:
+  1. Preheat oven to 350°F (175°C).
+  2. Cream butter and sugars. Add eggs and vanilla.
+  3. Mix in flour, baking soda, and salt. Stir in chocolate chips.
+  4. Drop dough by spoonfuls onto baking sheet. Bake 10 min.
+
 ## Mood: Late Night
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Midnight Ramen
+- Description: Quick, savory ramen with a soft-boiled egg, perfect for late-night cravings.
+- Cuisine: Japanese
+- Servings: 1
+- Prep Time: 5 min
+- Cook Time: 10 min
+- Total Time: 15 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 pack instant ramen
+  - 2 cups water
+  - 1 egg
+  - 1 green onion, sliced
+  - 1 tsp soy sauce
+  - 1/2 tsp sesame oil
+- Instructions:
+  1. Boil water, add ramen noodles and seasoning.
+  2. Add egg and simmer 6 min. Remove egg, peel, and halve.
+  3. Serve ramen topped with egg, green onion, and sesame oil.
+
+### Recipe: Cheesy Quesadilla
+- Description: Gooey cheese melted in a crispy tortilla—an easy late-night snack.
+- Cuisine: Mexican
+- Servings: 1
+- Prep Time: 2 min
+- Cook Time: 5 min
+- Total Time: 7 min
+- Difficulty: Easy
+- Ingredients:
+  - 2 flour tortillas
+  - 1/2 cup shredded cheese
+  - 1 tbsp butter
+- Instructions:
+  1. Heat butter in skillet. Place tortilla, sprinkle cheese, top with second tortilla.
+  2. Cook until golden, flip, cook other side. Slice and serve.
+
 ## Mood: Breakfast
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Fluffy Pancakes
+- Description: Light, fluffy pancakes to start your day with a smile.
+- Cuisine: American
+- Servings: 4
+- Prep Time: 10 min
+- Cook Time: 15 min
+- Total Time: 25 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 1/2 cups flour
+  - 3 1/2 tsp baking powder
+  - 1 tsp salt
+  - 1 tbsp sugar
+  - 1 1/4 cups milk
+  - 1 egg
+  - 3 tbsp melted butter
+- Instructions:
+  1. Mix dry ingredients. Add milk, egg, and butter. Stir until just combined.
+  2. Pour batter onto hot griddle. Flip when bubbles form. Serve warm.
+
+### Recipe: Avocado Toast
+- Description: Creamy avocado on toasted bread, topped with a sprinkle of chili flakes.
+- Cuisine: Modern
+- Servings: 2
+- Prep Time: 5 min
+- Cook Time: 5 min
+- Total Time: 10 min
+- Difficulty: Easy
+- Ingredients:
+  - 2 slices whole grain bread
+  - 1 ripe avocado
+  - 1/2 lemon, juiced
+  - Salt and chili flakes to taste
+- Instructions:
+  1. Toast bread. Mash avocado with lemon juice, salt, and chili flakes.
+  2. Spread on toast and serve.
+
 ## Mood: Gloomy Day
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Hearty Vegetable Stew
+- Description: A warm, comforting stew packed with root vegetables and herbs.
+- Cuisine: Comfort
+- Servings: 4
+- Prep Time: 15 min
+- Cook Time: 45 min
+- Total Time: 1 hr
+- Difficulty: Easy
+- Ingredients:
+  - 2 carrots, chopped
+  - 2 potatoes, cubed
+  - 1 onion, diced
+  - 2 celery stalks, sliced
+  - 1 can diced tomatoes
+  - 4 cups vegetable broth
+  - 1 tsp thyme
+  - Salt and pepper to taste
+- Instructions:
+  1. Sauté onion, carrots, and celery. Add potatoes, tomatoes, broth, and thyme.
+  2. Simmer 45 min. Season and serve hot.
+
+### Recipe: Cheesy Grilled Cheese & Tomato Soup
+- Description: Classic grilled cheese sandwich with creamy tomato soup for ultimate comfort.
+- Cuisine: American
+- Servings: 2
+- Prep Time: 10 min
+- Cook Time: 20 min
+- Total Time: 30 min
+- Difficulty: Easy
+- Ingredients:
+  - 4 slices bread
+  - 4 slices cheddar cheese
+  - 2 tbsp butter
+  - 1 can tomato soup
+- Instructions:
+  1. Butter bread, add cheese, grill until golden.
+  2. Heat tomato soup. Serve together.
+
 ## Mood: Post-Breakup
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Chocolate Mug Cake
+- Description: A quick, single-serve chocolate cake made in the microwave for instant comfort.
+- Cuisine: Dessert
+- Servings: 1
+- Prep Time: 2 min
+- Cook Time: 1 min
+- Total Time: 3 min
+- Difficulty: Easy
+- Ingredients:
+  - 4 tbsp flour
+  - 4 tbsp sugar
+  - 2 tbsp cocoa powder
+  - 3 tbsp milk
+  - 2 tbsp vegetable oil
+  - 1/4 tsp baking powder
+  - Pinch of salt
+- Instructions:
+  1. Mix all ingredients in a mug. Microwave 1 min.
+  2. Enjoy warm, straight from the mug.
+
+### Recipe: Ice Cream Sundae
+- Description: Classic comfort—ice cream topped with chocolate sauce, nuts, and a cherry.
+- Cuisine: Dessert
+- Servings: 1
+- Prep Time: 2 min
+- Cook Time: 0 min
+- Total Time: 2 min
+- Difficulty: Easy
+- Ingredients:
+  - 2 scoops vanilla ice cream
+  - 2 tbsp chocolate sauce
+  - 1 tbsp chopped nuts
+  - 1 cherry
+- Instructions:
+  1. Scoop ice cream into bowl. Top with sauce, nuts, and cherry.
+
 ## Mood: Movie Night
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Loaded Nachos
+- Description: Crispy tortilla chips loaded with cheese, beans, salsa, and jalapeños.
+- Cuisine: Tex-Mex
+- Servings: 4
+- Prep Time: 5 min
+- Cook Time: 10 min
+- Total Time: 15 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 bag tortilla chips
+  - 1 cup shredded cheese
+  - 1/2 cup black beans
+  - 1/2 cup salsa
+  - 1 jalapeño, sliced
+- Instructions:
+  1. Spread chips on baking sheet. Top with cheese, beans, salsa, and jalapeños.
+  2. Bake at 375°F (190°C) for 10 min. Serve hot.
+
+### Recipe: Caramel Popcorn
+- Description: Sweet, crunchy popcorn coated in homemade caramel—perfect for movie night.
+- Cuisine: Snack
+- Servings: 6
+- Prep Time: 10 min
+- Cook Time: 15 min
+- Total Time: 25 min
+- Difficulty: Medium
+- Ingredients:
+  - 10 cups popped popcorn
+  - 1 cup brown sugar
+  - 1/4 cup butter
+  - 1/4 cup corn syrup
+  - 1/2 tsp baking soda
+  - 1/2 tsp vanilla extract
+- Instructions:
+  1. Boil sugar, butter, and syrup 5 min. Remove from heat, stir in soda and vanilla.
+  2. Pour over popcorn, mix well. Bake at 250°F (120°C) for 15 min, stirring once.
+
 ## Mood: Study Session
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Energy Trail Mix
+- Description: A mix of nuts, dried fruit, and chocolate chips for a quick study snack.
+- Cuisine: Snack
+- Servings: 4
+- Prep Time: 5 min
+- Cook Time: 0 min
+- Total Time: 5 min
+- Difficulty: Easy
+- Ingredients:
+  - 1/2 cup almonds
+  - 1/2 cup cashews
+  - 1/2 cup dried cranberries
+  - 1/2 cup chocolate chips
+  - 1/2 cup pretzels
+- Instructions:
+  1. Mix all ingredients in a bowl. Store in an airtight container.
+
+### Recipe: Hummus & Veggie Wrap
+- Description: A healthy wrap with hummus, crunchy veggies, and a sprinkle of feta.
+- Cuisine: Mediterranean
+- Servings: 2
+- Prep Time: 10 min
+- Cook Time: 0 min
+- Total Time: 10 min
+- Difficulty: Easy
+- Ingredients:
+  - 2 whole wheat tortillas
+  - 1/2 cup hummus
+  - 1/2 cup shredded carrots
+  - 1/2 cup sliced cucumber
+  - 1/4 cup crumbled feta
+- Instructions:
+  1. Spread hummus on tortillas. Add veggies and feta. Roll up and slice.
+
 ## Mood: Light & Fresh
 
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
-### Recipe: [Generation Failed]
+### Recipe: Citrus Quinoa Salad
+- Description: A refreshing salad with quinoa, citrus, mint, and a light vinaigrette.
+- Cuisine: Modern
+- Servings: 2
+- Prep Time: 10 min
+- Cook Time: 15 min
+- Total Time: 25 min
+- Difficulty: Easy
+- Ingredients:
+  - 1 cup cooked quinoa
+  - 1 orange, segmented
+  - 1/2 cup chopped cucumber
+  - 1/4 cup chopped mint
+  - 2 tbsp olive oil
+  - 1 tbsp lemon juice
+  - Salt and pepper to taste
+- Instructions:
+  1. Toss quinoa, orange, cucumber, and mint. Drizzle with oil and lemon juice. Season and serve.
+
+### Recipe: Zucchini Noodle Bowl
+- Description: Spiralized zucchini tossed with cherry tomatoes, feta, and a lemony dressing.
+- Cuisine: Mediterranean
+- Servings: 2
+- Prep Time: 10 min
+- Cook Time: 0 min
+- Total Time: 10 min
+- Difficulty: Easy
+- Ingredients:
+  - 2 medium zucchinis, spiralized
+  - 1 cup cherry tomatoes, halved
+  - 1/4 cup crumbled feta
+  - 2 tbsp olive oil
+  - 1 tbsp lemon juice
+  - Salt and pepper to taste
+- Instructions:
+  1. Toss zucchini noodles, tomatoes, and feta. Drizzle with oil and lemon juice. Season and serve.
