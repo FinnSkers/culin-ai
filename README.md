@@ -163,3 +163,5 @@ The application includes a simple admin system for managing users and invite cod
 -   An admin user will see an **Admin Dashboard** on their profile page.
 -   From this dashboard, admins can create new invite codes and view their usage status.
 -   The sign-up form includes an optional field for an invite code. If a valid, unused code is provided, the user can sign up, and the code is marked as used.
+#   c u l i n - a i  
+ 
