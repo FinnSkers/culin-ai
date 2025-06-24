@@ -165,4 +165,5 @@ The application includes a simple admin system for managing users and invite cod
 -   The sign-up form includes an optional field for an invite code. If a valid, unused code is provided, the user can sign up, and the code is marked as used.
 #   c u l i n - a i  
  #   c u l i n - a i  
+ #   c u l i n - a i  
  
