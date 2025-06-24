@@ -1,10 +1,4 @@
-# Database Structure: User Database
-
-# Supabase Credentials
-NEXT_PUBLIC_SUPABASE_URL=https://klwbvnhobpdikxjjlvwy.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtsd2J2bmhvYnBkaWt4ampsdnd5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2MDI1NjcsImV4cCI6MjA2NjE3ODU2N30.sD9ZB76sv8v1jWMGcsC72wyyw6YdJtaDtQ7zKXmLbKE
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtsd2J2bmhvYnBkaWt4ampsdnd5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MDYwMjU2NywiZXhwIjoyMDY2MTc4NTY3fQ.k2YoN1b9_qjEDfHGFbLdoEJzu0ky5BvjkisRjClNTVE
-
+# 
 
 ## Table: `profiles`
 | Column         | Type                  | Nullable | Default                   |
@@ -120,13 +114,6 @@ SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhY
 
 ---
 
-# Database Structure: Chef's Secret
-
-
-# Chef`s Secret (scraped from the online)
-EXT_PUBLIC_SUPABASE_URL=https://voyivxzixtmnvhpifgpe.supabase.co
-EXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZveWl2eHppeHRtbnZocGlmZ3BlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2ODQ1NjcsImV4cCI6MjA2NjI2MDU2N30.Q5NDGrW4awnK8R8PZTJOqbXjXjsgCbbPUue8Wv0O8zU
-EXT_PUBLIC_SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZveWl2eHppeHRtbnZocGlmZ3BlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MDY4NDU2NywiZXhwIjoyMDY2MjYwNTY3fQ.3nBGBkcbSaw_cqWSeo_CQ0bi1wEM_1KynwSSbvjZS6E
 
 
 ## Table: `categories`
